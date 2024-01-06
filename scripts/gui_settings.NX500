@@ -1,0 +1,14 @@
+checkbox|静音快门|rolling_shutter.sh
+checkbox|关闭NX-KS按钮|z_button.sh
+
+checkbox|解除录制时长限制|r-limit.sh
+checkbox|启动时重新聚焦|refocus.sh
+
+checkbox|无镜头释放快门|nolens.sh
+button|相机信息|info.sh
+
+checkbox|开启3×3构图线|ov.sh
+button|卸载Mod v2.88|uninstall.sh
+
+button|返回|@/opt/usr/nx-ks/gui_ini.NX500
+button|退出|/opt/usr/nx-ks/gui_exit.sh

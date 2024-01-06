@@ -1,0 +1,14 @@
+checkbox|远程保存|rem.sh
+button|视频比特率|@/tmp/gui_br.NX1
+
+button|定时拍摄(毫秒)|zoomzoom.sh
+button|自定义视频分辨率|@/opt/usr/nx-ks/gui_res.NX1
+
+button|批量录制|brec.sh
+button|HDR|1HDR.sh
+
+button| 关于Mod v2.88 |ver.sh
+checkbox|摄像机模式|camcorder_mode.sh
+
+button|返回|@/opt/usr/nx-ks/gui_ini.NX1
+button|退出|/opt/usr/nx-ks/gui_exit.sh

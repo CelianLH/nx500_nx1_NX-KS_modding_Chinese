@@ -1,0 +1,8 @@
+button|简单延时摄影|wakelapse.sh
+button|渐变曝光延时摄影|@/tmp/gui_ramp.NX1
+
+button|高级延时摄影|mod_lapse
+button|敬请期待|
+
+button|返回|@/opt/usr/nx-ks/gui_ini.NX1
+button|退出|/opt/usr/nx-ks/gui_exit.sh

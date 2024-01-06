@@ -1,0 +1,11 @@
+button|保存 EV+UP|save_UP.sh
+button|加载 EV+UP|EV_UP.sh
+
+button|保存 EV+DN|save_DOWN.sh
+button|加载 EV+DN|EV_DOWN.sh
+
+button|保存完整备份|FullSave.sh
+button|加载完整备份|FullLoad.sh
+
+button|返回|@/opt/usr/nx-ks/gui_focus.NX500
+button|退出|/opt/usr/nx-ks/gui_exit.sh

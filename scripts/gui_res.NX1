@@ -1,0 +1,11 @@
+checkbox|DC >> UHD|res_DCUHD.sh
+checkbox|UHD >> DC|res_UHDDC.sh
+
+checkbox|DC >> 1080p|res_DCHD.sh
+checkbox|UHD >> 1080p|res_UHDHD.sh
+
+checkbox|VGA >> DC|res_VGADC.sh
+checkbox|VGA >> UHD|res_VGAUHD.sh
+
+button|返回|@/opt/usr/nx-ks/gui_func.NX1
+button|退出|/opt/usr/nx-ks/gui_exit.sh

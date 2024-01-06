@@ -1,0 +1,11 @@
+button|延时摄影|@/opt/usr/nx-ks/gui_tl.NX500
+button|自定义功能|@/opt/usr/nx-ks/gui_func.NX500
+
+button|对焦和配置|@/opt/usr/nx-ks/gui_focus.NX500
+button|设置|@/opt/usr/nx-ks/gui_settings.NX500
+
+button|休眠|hibernate.sh
+checkbox|远程控制|nx-rc.sh
+
+checkbox|开启蓝牙|bt.sh
+button|退出|/opt/usr/nx-ks/gui_exit.sh

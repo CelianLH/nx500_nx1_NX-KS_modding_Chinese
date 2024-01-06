@@ -1,0 +1,14 @@
+button|拍摄时长: ${p_1}分钟|/opt/usr/nx-ks/ramp/set_duration.sh
+button|拍摄间隔: ${p_2}秒|/opt/usr/nx-ks/ramp/set_time-gap.sh
+
+button|开始曝光速度: ${p_3}(cam)|/opt/usr/nx-ks/ramp/set_exp_start.sh
+button|结束曝光速度: ${p_4}(cam)|/opt/usr/nx-ks/ramp/set_exp_end.sh
+
+button|渐变开始时间: ${p_5}分钟|/opt/usr/nx-ks/ramp/set_ramp_start.sh
+button|渐变持续时长: ${p_6}分钟|/opt/usr/nx-ks/ramp/set_ramp_length.sh
+
+button|延时启动: ${p_7}分钟后|/opt/usr/nx-ks/ramp/set_delay_start.sh
+button|返回|@/opt/usr/nx-ks/gui_tl.NX${p}
+
+button|退出|/opt/usr/nx-ks/gui_exit.sh
+button|开始|/opt/usr/nx-ks/ramping.sh
